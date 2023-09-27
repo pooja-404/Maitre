@@ -252,6 +252,9 @@
 .height-71 {
     height: 71px;
 }
+.outline-none{
+    outline: none;
+}
 
 .mw-776 {
     max-width: 776px;
@@ -348,6 +351,7 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
     border: 2px solid #FD9B2B;
+   
 
 }
 .color-gradient {
@@ -428,7 +432,7 @@
     justify-content: center;
     align-items: center;
     border: none;
-    border: 1px solid transparent;
+    border: 2px solid transparent;
 }
 .frame1 {
     background: #FFFDFD;
@@ -635,7 +639,6 @@
         --fs-3xl: 61px;
     }
 
-
 }
 
 @media (max-width:768px) {
@@ -695,6 +698,9 @@
         text-align: center;
         display: flex !important;
         justify-content: center !important;
+    }
+    .copy{
+        text-align: center;
     }
 
 }
