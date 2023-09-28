@@ -62,7 +62,6 @@
     color: #eb6830 !important;
 
 }
-
 .arrow:hover {
     background: linear-gradient(96.64deg, #FD9B2B 13.58%, #F14F09 86.99%);
 }
@@ -174,15 +173,12 @@
 .gap-13 {
     gap: 13px;
 }
-
 .gap-46 {
     gap: 46px;
 }
-
 .pt-129 {
     padding-top: 129px;
 }
-
 .w-49 {
     width: 49%;
 }
@@ -342,7 +338,8 @@
 }
 
 .card2:hover svg path {
-    fill: url(#paint0_linear_19268_1847);
+ fill: url(#paint0_linear_19790268_1847); 
+   
 }
 
 .btn1:hover {
