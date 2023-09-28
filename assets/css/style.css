@@ -62,6 +62,7 @@
     color: #eb6830 !important;
 
 }
+
 .arrow:hover {
     background: linear-gradient(96.64deg, #FD9B2B 13.58%, #F14F09 86.99%);
 }
@@ -173,12 +174,15 @@
 .gap-13 {
     gap: 13px;
 }
+
 .gap-46 {
     gap: 46px;
 }
+
 .pt-129 {
     padding-top: 129px;
 }
+
 .w-49 {
     width: 49%;
 }
@@ -256,7 +260,8 @@
 .outline-none {
     outline: none;
 }
-.pr-25{
+
+.pr-25 {
     padding-right: 25px;
 }
 
@@ -316,7 +321,6 @@
     position: absolute;
     bottom: 37%;
     left: 78%;
-
 }
 
 .white-space {
@@ -338,29 +342,16 @@
 }
 
 .card2:hover svg path {
- fill: url(#paint0_linear_19790268_1847); 
-   
+    fill: url(#paint0_linear_19790268_1847);
+
 }
 
 .btn1:hover {
-    background: #FFFFFF;
-    background: linear-gradient(96.64deg, #FD9B2B 13.58%, #F14F09 86.99%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border: 2px solid #FD9B2B;
-
+    transform: scale(1.1);
 }
 
 .btn5:hover {
-    background: #FFFFFF;
-    background: linear-gradient(96.64deg, #FD9B2B 13.58%, #F14F09 86.99%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border: 2px solid #FD9B2B;
-
-
+    transform: scale(1.1);
 }
 
 .color-gradient {
@@ -425,7 +416,6 @@
     border: none;
     padding: 10px 40px;
     color: #ffff;
-    border: 2px solid transparent;
 }
 
 .btn5 {
@@ -441,7 +431,6 @@
     justify-content: center;
     align-items: center;
     border: none;
-    border: 2px solid transparent;
 }
 
 .frame1 {
